@@ -1,0 +1,7 @@
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\bin\Debug\DecouverteSQL.exe.config
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\bin\Debug\DecouverteSQL.exe
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\bin\Debug\DecouverteSQL.pdb
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\obj\Debug\DecouverteSQL.csprojAssemblyReference.cache
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\obj\Debug\DecouverteSQL.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\obj\Debug\DecouverteSQL.exe
+C:\Users\M2iformation\source\repos\DecouverteSQL\DecouverteSQL\obj\Debug\DecouverteSQL.pdb
